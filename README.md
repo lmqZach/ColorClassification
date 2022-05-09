@@ -26,7 +26,7 @@ Train a probabilistic color model from pixel data to distinguish among red, gree
 <img width="821" alt="Screen Shot 2022-05-09 at 16 21 50" src="https://user-images.githubusercontent.com/92130976/167491156-ccf3a540-1b30-4d42-aa95-644c7e332f78.png">
 
 # Report
-## Introduction:
+## Overview:
 With the increasing trend of building an environment-friendly community, col- lecting recyclables has become very impor- tant. However, finding all blue recycling bins over one road when collecting is still a problem for the human employee. People might not identify each container precisely over a long time. Hence, it will be better if we have an excellent classifier to help hu- man drivers detect the recycle bins and im- prove the efficiency of collecting recyclables.
 In this report, I proposed one model that can easily and quickly find and make bounding blue recycling bins. This model first uses one color classifier based on lo- gistic regression, morphological operations, and bounding area extension to identify blue recycling bins.
 
@@ -34,9 +34,10 @@ In this report, I proposed one model that can easily and quickly find and make b
 
 Figure 1: Overview of Training and Testing Process
 
-## Problem Formulation
+## Algorithm
 
-<img width="401" alt="Screen Shot 2022-05-09 at 16 26 04" src="https://user-images.githubusercontent.com/92130976/167491837-4254fd42-5e94-46f5-923c-0a748b944077.png">
+<img width="271" alt="Screen Shot 2022-05-09 at 16 30 11" src="https://user-images.githubusercontent.com/92130976/167492595-f09bc376-00a8-499e-bc40-a3b9352143d3.png">
+
 
 
 
