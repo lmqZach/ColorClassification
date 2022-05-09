@@ -3,6 +3,7 @@
 ```
 |-- ROOT
   |-- README.md
+  |-- PixelClassifier_Report.pdf
   |-- Pipfile
   |-- requirements.txt
   |-- run_tests.py
