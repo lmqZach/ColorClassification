@@ -18,12 +18,7 @@
   |   |-- test_pixel_classifier.py
 ```
 
-## Objective
-Train a probabilistic color model from pixel data to distinguish among red, green, and blue pixels.
 
-## Detailed Tasks
-
-<img width="821" alt="Screen Shot 2022-05-09 at 16 21 50" src="https://user-images.githubusercontent.com/92130976/167491156-ccf3a540-1b30-4d42-aa95-644c7e332f78.png">
 
 # Report
 ## Overview:
@@ -33,6 +28,13 @@ In this report, I proposed one model that can easily and quickly find and make b
 <img width="406" alt="Screen Shot 2022-05-09 at 16 25 05" src="https://user-images.githubusercontent.com/92130976/167491646-7b3772bc-6979-468a-b34d-b01086603d34.png">
 
 Figure 1: Overview of Training and Testing Process
+
+## Objective
+Train a probabilistic color model from pixel data to distinguish among red, green, and blue pixels.
+
+### Detailed Tasks
+
+<img width="821" alt="Screen Shot 2022-05-09 at 16 21 50" src="https://user-images.githubusercontent.com/92130976/167491156-ccf3a540-1b30-4d42-aa95-644c7e332f78.png">
 
 ## Algorithm
 
